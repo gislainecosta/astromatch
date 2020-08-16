@@ -15,7 +15,7 @@ Projeto semanal do curso que consistia em replicar o Tinder
 <br><br>
 
 
-💻 [Deploy da aplicação (Otimizado para Desktop)](http://astromatch-gislaine.surge.sh/)
+💻 [Deploy da aplicação (Otimizado para Mobile)](http://astromatch-gislaine.surge.sh/)
 
 ## Demonstração: 
 <p align="center">
